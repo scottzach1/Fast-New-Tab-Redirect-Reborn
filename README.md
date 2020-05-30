@@ -3,7 +3,7 @@ A rebirth of the [fast-new-tab-redirect](https://chrome.google.com/webstore/deta
 
 ![Screenshot of options](./images/screenshot.png)
 
-##Authors
+## Authors
 
 - Zac Scott (scottzach1)
 
