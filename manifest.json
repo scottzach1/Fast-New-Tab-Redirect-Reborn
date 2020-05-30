@@ -1,20 +1,21 @@
 {
-   "name": "Fast New Tab Redirect Reborn",
-   "version": "1.0",
+   "name": "Fast New Tab Redirect Fix",
    "description": "Redirect the New Tab page to your favorite",
+   "version": "1.0",
    "background": {
       "scripts": [
          "background.js"
       ]
    },
    "chrome_url_overrides": {
-      "newtab": "options.html"
+      "newtab": "dummy.html"
    },
-   "options_page": "options.html",
    "permissions": [
       "webRequest",
       "webRequestBlocking",
       "*://*/*"
    ],
+   "options_page": "options.html",
+   "update_url": "https://clients2.google.com/service/update2/crx",
    "manifest_version": 2
 }
