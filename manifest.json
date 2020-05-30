@@ -1,0 +1,20 @@
+{
+   "name": "Fast New Tab Redirect Reborn",
+   "version": "1.0",
+   "description": "Redirect the New Tab page to your favorite",
+   "background": {
+      "scripts": [
+         "background.js"
+      ]
+   },
+   "chrome_url_overrides": {
+      "newtab": "options.html"
+   },
+   "options_page": "options.html",
+   "permissions": [
+      "webRequest",
+      "webRequestBlocking",
+      "*://*/*"
+   ],
+   "manifest_version": 2
+}
