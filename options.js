@@ -1,6 +1,6 @@
-var inputRedirectUrl = document.querySelector("input");
+const inputRedirectUrl = document.querySelector("input");
 inputRedirectUrl.value = localStorage.redirectUrl || "";
 
-document.querySelector("form").addEventListener("submit", function() {
-	localStorage.redirectUrl = inputRedirectUrl.value;
+document.querySelector("form").addEventListener("submit", function () {
+    localStorage.redirectUrl = inputRedirectUrl.value;
 }, false);
