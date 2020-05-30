@@ -1,6 +1,6 @@
 {
-  "name": "Fast New Tab Redirect Fix",
-  "description": "Redirect the New Tab page to your favorite",
+  "name": "Fast New Tab Redirect Reborn",
+  "description": "Change the redirect page to something a little more personal",
   "version": "1.0",
   "background": {
     "scripts": [
