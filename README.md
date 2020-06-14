@@ -18,7 +18,7 @@ Although the new tab page has gotten better of these years, some (myself
 included) require something a little personal. This extension allows
 user freedom in a lightweight and snappy package.
 
-### Whats different?
+## Whats different?
 
 Sadly I found that there wasn't many options for new tab redirect
 extensions that suited my needs.
@@ -47,7 +47,7 @@ across browsers using the
 also hope to add some other quality of life functionality such as a
 favourites list.
 
-### Privacy Policy:
+## Privacy Policy:
 
 Regarding the permissions required to automate the new URL redirect,
 this extension does not and will never record any user data. There is no
@@ -56,7 +56,7 @@ hidden communication with any external sites.
 This project is open source, and I would love your input to what should
 be changed, as well as any improvements.
 
-### Screenshot
+## Screenshot
 
 ![Screenshot of options](./images/screenshot.png)
 
